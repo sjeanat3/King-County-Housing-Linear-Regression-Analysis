@@ -46,11 +46,9 @@ Further criteria and analyses could yield additional insights to further inform 
 
 ## Repository Structure
 ├── code
-│   ├── data_cleaning.py
-│   ├── feature_engineering.py
-│   └── visualizations.py
-│   ├── data_preparation.py
-│   ├── visualizations.py
+│   ├── Housing Prices Analysis - King County, WA .pdf
+│   ├── King County Housing Prices Analysis - Jupyter Notebook.pdf
 │   └── King County Housing Prices Analysis.ipynb
+│   ├── README.md
 ├── data
 ├── Images
